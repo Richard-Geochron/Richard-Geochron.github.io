@@ -1,5 +1,5 @@
 ---
-title: "Thomas Rose"
+title: "Richard Albert"
 about:
   id: template-area
   template: jolla
@@ -24,19 +24,20 @@ about:
 :::{#template-area}
 
 Here goes the information about you. 
+I am a human being
 
 :::
 
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Fahrenheitstr. 52  
-44879 Bochum  
+Richard Albert 
+Altenhoferallee 2
+60437 Frankfurt 
 Germany  
 
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Phone +49 6666 6666666  
+E-Mail: Richard.albert [at] daad-alumni.de
 
 ## Privacy
 
