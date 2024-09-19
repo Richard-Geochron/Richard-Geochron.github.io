@@ -1,5 +1,5 @@
 ---
-title: "Random report"
+title: "Super Random report"
 author: 
   - name: Jane Doe
     orcid: 0000-0001-2345-6789
@@ -55,6 +55,14 @@ Uniformly distributed random number means that all number have the same chance t
 The most common command to create a uniform distribution of random numbers in R is `runif()`, standing for **r**andom **unif**orm. There is also the command `sample()` which is a bit more complex and therefore not further discussed here. 
 
 By default, `runif()` samples the range from 0 to 1: 
+
+``` {python}
+
+filePath = 'https://github.com/Hezel2000/GeoCosmoChemDataAndTools/tree/main/csv'
+
+import pandas as pd
+
+pd.read_csv(filePath)
 
 ``` {r}
 
