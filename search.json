@@ -2,30 +2,37 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Thomas Rose",
+    "title": "Richard Albert",
     "section": "",
-    "text": "Update the YAML header. you can check out different layouts of the pre-formatted part at https://quarto.org/docs/websites/website-about.html#templates\nUpdate the legal notice\nWrite a short introduction about you\ndelete this section\n\n\n  \n \nHere goes the information about you.\n \n  \n   \n  \n    \n     twitter\n  \n  \n    \n     Github"
+    "text": "Update the YAML header. you can check out different layouts of the pre-formatted part at https://quarto.org/docs/websites/website-about.html#templates\nUpdate the legal notice\nWrite a short introduction about you\ndelete this section\n\n\n  \n \nHere goes the information about you. I am a human being\n \n  \n   \n  \n    \n     Github"
   },
   {
     "objectID": "about.html#tasks-for-this-page",
     "href": "about.html#tasks-for-this-page",
-    "title": "Thomas Rose",
+    "title": "Richard Albert",
     "section": "",
-    "text": "Update the YAML header. you can check out different layouts of the pre-formatted part at https://quarto.org/docs/websites/website-about.html#templates\nUpdate the legal notice\nWrite a short introduction about you\ndelete this section\n\n\n  \n \nHere goes the information about you.\n \n  \n   \n  \n    \n     twitter\n  \n  \n    \n     Github"
+    "text": "Update the YAML header. you can check out different layouts of the pre-formatted part at https://quarto.org/docs/websites/website-about.html#templates\nUpdate the legal notice\nWrite a short introduction about you\ndelete this section\n\n\n  \n \nHere goes the information about you. I am a human being\n \n  \n   \n  \n    \n     Github"
   },
   {
     "objectID": "about.html#legal-notice",
     "href": "about.html#legal-notice",
-    "title": "Thomas Rose",
+    "title": "Richard Albert",
     "section": "Legal Notice",
-    "text": "Legal Notice\nProvider according to § 5 TMG is:\nThomas Rose\nFahrenheitstr. 52\n44879 Bochum\nGermany\nPhone +49 1522 3176524\nE-Mail: thomas.rose [at] daad-alumni.de"
+    "text": "Legal Notice\nProvider according to § 5 TMG is:\nRichard Albert Altenhoferallee 2 60437 Frankfurt Germany\nPhone +49 6666 6666666\nE-Mail: Richard.albert [at] daad-alumni.de"
   },
   {
     "objectID": "about.html#privacy",
     "href": "about.html#privacy",
-    "title": "Thomas Rose",
+    "title": "Richard Albert",
     "section": "Privacy",
     "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
+  },
+  {
+    "objectID": "assets/report.html",
+    "href": "assets/report.html",
+    "title": "Super Random report",
+    "section": "",
+    "text": "filePath = 'https://raw.githubusercontent.com/Hezel2000/GeoCosmoChemDataAndTools/refs/heads/main/csv/McDonald%20Islands.csv'\n\nimport pandas as pd\n\npd.read_csv(filePath)\n\n\n\n\n\n\n\n\nCitations\nTectonic Setting\nLocation\nLocation Comment\nLatitude (Min)\nLatitude (Max)\nLongitude (Min)\nLongitude (Max)\nLand or Sea\nElevation (Min)\n...\nRE187_OS188\nHF176_HF177\nHE3_HE4\nHE3_HE4(R/R(A))\nHE4_HE3\nHE4_HE3(R/R(A))\nK40_AR40\nAR40_K40\nUnique Id\nUnnamed: 171\n\n\n\n\n0\n[1007]\nOCEAN ISLAND\nMCDONALD ISLANDS / MCDONALD ISLAND / INDIAN OCEAN\nNaN\n-52.83\n-52.83\n72.48\n72.48\nSUBAERIAL\nNaN\n...\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\n15984\nNaN\n\n\n1\n[1007]\nOCEAN ISLAND\nMCDONALD ISLANDS / MCDONALD ISLAND / INDIAN OCEAN\nNaN\n-52.83\n-52.83\n72.48\n72.48\nSUBAERIAL\nNaN\n...\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\n15985\nNaN\n\n\n2\n[1007]\nOCEAN ISLAND\nMCDONALD ISLANDS / MCDONALD ISLAND / INDIAN OCEAN\nNaN\n-52.83\n-52.83\n72.48\n72.48\nSUBAERIAL\nNaN\n...\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\n15987\nNaN\n\n\n3\n[1007][10315]\nOCEAN ISLAND\nMCDONALD ISLANDS / MCDONALD ISLAND / INDIAN OCEAN\nNaN\n-52.83\n-52.83\n72.48\n72.48\nSUBAERIAL\nNaN\n...\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\n2757-65125\nNaN\n\n\n4\n[10315]\nOCEAN ISLAND\nMCDONALD ISLANDS / MCDONALD ISLAND / MOUNT OLS...\nNaN\n-52.83\n-52.83\n72.48\n72.48\nSUBAERIAL\nNaN\n...\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\nNaN\n413377\nNaN\n\n\n\n\n5 rows × 172 columns"
   },
   {
     "objectID": "index.html",
