@@ -47,7 +47,7 @@ Make sure identations are correct!
 
 
 ```{python}
-filePath = 'https://github.com/Hezel2000/GeoCosmoChemDataAndTools/tree/main/csv'
+filePath = 'https://raw.githubusercontent.com/Hezel2000/GeoCosmoChemDataAndTools/refs/heads/main/csv/McDonald%20Islands.csv'
 
 import pandas as pd
 
